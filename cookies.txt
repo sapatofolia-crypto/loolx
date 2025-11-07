@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+olxcompraoficial.digital	TRUE	/	FALSE	1999999999	PHPSESSID	cgt7oamo3g35u7mgrejkjm0j4q
+

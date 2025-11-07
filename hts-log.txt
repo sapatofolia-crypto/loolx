@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 05 Nov 2025 19:58:18 at https://olxcompraoficial.digital/acessos/entrar.php?id=33645148008933 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "pt_BR, en, *" https://olxcompraoficial.digital/acessos/entrar.php?id=33645148008933 -O1 "C:\Meus Sites\testeolxx2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:58:20	Warning: 	Found for https://olxcompraoficial.digital/robots.txt
+19:58:20	Warning: 	File has moved from https://olxcompraoficial.digital/robots.txt to https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj17uu8lfmLAxUsHbkGHRDcMLUQFnoECAsQAQ&url=https%3A%2F%2Fwww.olx.com.br%2F&usg=AOvVaw3FE22i8bdzoP9PlqtFwqG2&opi=89978449
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 seconds : 5 links scanned, 4 files written (165150 bytes overall) [36481 bytes received at 9120 bytes/sec], 157005 bytes transferred using HTTP compression in 3 files, ratio 14%, 2.0 requests per connection
+(No errors, 2 warnings, 0 messages)
